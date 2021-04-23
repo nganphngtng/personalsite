@@ -1,0 +1,52 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    color: #40514e;
+    font-family: 'Merriweather', serif;
+    text-align: center;
+    margin: 0
+}
+h1{
+    font-family: 'Sacramento', cursive;
+    font-size: 5.625rem;
+    margin: 50px;
+    color: cadetblue;
+}
+h2{
+    padding-bottom: 10px;
+    font-family: 'Parisienne', cursive;
+    font-size: 3rem;
+    color: darkblue;
+}
+.top-container{
+    background-color: #edffec ;
+    padding-top: 50px;
+}
+.bottom-cloud{
+    position: absolute;
+    left: 250px;
+    bottom: 300px;
+}
+.middle-container{
+    margin: 100px 0;
+}
+p{
+    font-family: 'Merriweather', serif;
+    font-size: 1.25rem;
+}
+hr{
+    border: dotted #EAF6F6 5px;
+    border-bottom: none;
+    width: 4%;
+    margin: 100px auto;
+}
+.skill-row{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: center;
+}
+
+
+
